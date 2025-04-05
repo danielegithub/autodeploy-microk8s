@@ -1,6 +1,5 @@
 # Deploy Automatico di un Sito Web con Podman e MicroK8s
 
-```markdown
 
 
 Questo documento descrive i passaggi per automatizzare la creazione e il deploy di un sito web (in questo caso, un server Nginx che serve contenuti statici) utilizzando Podman per la gestione dei container e MicroK8s come ambiente Kubernetes locale. Il processo è automatizzato tramite uno script Bash.
