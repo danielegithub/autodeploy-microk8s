@@ -1,4 +1,4 @@
-# Deploy Automatico di un Sito Web con Podman e MicroK8s
+# Deploy Automatico di un Sito Web con Podman e MicroK8s eseguiti su una semplice macchina virtuale
 
 
 
